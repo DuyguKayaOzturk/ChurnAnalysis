@@ -15,7 +15,7 @@
 - Independent variables contain information about customers.
 - The dependent variable represents the customer abandonment status..
 
-##**Variables:**
+## **Variables:**
 
 - Surname
 - CreditScore
