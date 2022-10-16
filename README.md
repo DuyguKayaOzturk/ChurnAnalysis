@@ -21,9 +21,9 @@
 ### - Surname
 ### - CreditScore
 ### - Geography : Country (Germany/France/Spain)
-### - Gender  (Female/Male)
+### - Gender : Female/Male
 ### - Age
-### - Tenure : KHow many years of customers
+### - Tenure : How many years of customers
 ### - Balance : Account balance
 ### - NumOfProducts : Number of bank products used
 ### - HasCrCard : Credit card status (0=No,1=Yes)
