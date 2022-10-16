@@ -31,3 +31,6 @@
 - Exited : Churn or Not? (0=No,1=Yes)
 
 
+### Special thakns to;
+- https://bootcamp.veribilimiokulu.com/egitim/veri-bilimci-yetistirme-programi/
+- https://github.com/mvahit
