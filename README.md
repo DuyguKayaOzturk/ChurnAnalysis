@@ -4,7 +4,7 @@
 
 ## Problem:
 
-**Can you develop a machine learning model that can predict customers leaving the company??**
+**Can you develop a machine learning model that can predict customers leaving the company?**
 
 - The objective is to predict whether a bank's customers will leave the bank or not.
 - The defining event of customer churn is the closing of the customer's bank account..
@@ -13,7 +13,7 @@
 
 - Consists of 10000 observations and 12 variables.
 - Independent variables contain information about customers.
-- The dependent variable represents the customer abandonment status..
+- The dependent variable represents the customer abandonment status.
 
 ## **Variables:**
 
